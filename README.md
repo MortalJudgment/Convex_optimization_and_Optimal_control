@@ -1,5 +1,5 @@
-# Convex optimization and Optimal control
-## Professor Mounir HADDOU - 11/2022
+# Convex optimization and Optimal control (10/2022 - 11/2022)
+## Professor Mounir Haddou 
 
 ## Lab1: Optimization & equations in 1D
 1. Bissection method
